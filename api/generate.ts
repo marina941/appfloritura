@@ -1,4 +1,4 @@
-import { BRAND_VOICE_GUIDE, BUSINESS_CONTEXT } from "../src/data/brandVoice";
+import { BRAND_VOICE_GUIDE, BUSINESS_CONTEXT } from "../src/data/brandVoice.js";
 import type {
   GenerateRequest,
   GenerateCaptionRequest,
